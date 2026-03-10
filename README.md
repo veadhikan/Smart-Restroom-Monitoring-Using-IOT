@@ -1,0 +1,1 @@
+This project proposes a Smart Restroom Monitoring System using IoT to improve safety in enclosed spaces. The system detects if a door remains locked for a long time, uses a PIR sensor to check for occupant presence, and asks for user confirmation through a button. If there is no response, it activates a buzzer and sends alerts to security through an IoT platform.
